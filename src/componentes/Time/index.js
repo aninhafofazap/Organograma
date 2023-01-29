@@ -13,7 +13,7 @@ const Time = ({ time, colaboradores, aoDeletar, mudarCor }) => {
         }}
       >
         <input
-          onChange={(evento) => mudarCor(evento.target.value, time.nome)}
+          onChange={(evento) => mudarCor(evento.target.value, time.id)}
           value={time.cor}
           type="color"
           className="input-cor"
