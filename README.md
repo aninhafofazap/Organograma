@@ -19,9 +19,9 @@ Its functionality is to organize people or teams in one place.
 
 ## Technologies used during the course
 
--React
--Javascript
+- React
+- Javascript
 
 ## Technologies used in the project
 
--CSS
+- CSS
